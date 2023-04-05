@@ -1,0 +1,21 @@
+.box {
+    width: 200px;
+    height: 100px;
+    border: 2px black;
+    margin-top: 20px;
+}
+
+.verde {
+    background-color: green;
+    position: absolute;
+    left: 300px;
+    z-index: -1;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
